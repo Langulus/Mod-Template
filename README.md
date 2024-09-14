@@ -17,3 +17,6 @@ Here's a comprehensive list:
  - Year
  - Dependencies
  - Precedence
+
+# Licensing
+The MIT license added to this repository is just for an example, and not enforced in any way whatsoever. You can choose any license you like, as long as it is GNU GPL v3.0+ compatible.

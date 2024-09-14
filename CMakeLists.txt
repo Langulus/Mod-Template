@@ -15,7 +15,7 @@ file(GLOB_RECURSE
 )
 
 # Build the module                                                              
-add_library(Langulus((((YourModName)))) SHARED ${LANGULUS_MOD_((((YourModName))))_SOURCES})
+add_library(LangulusMod((((YourModName)))) SHARED ${LANGULUS_MOD_((((YourModName))))_SOURCES})
 
 # Link with the framework														
 target_link_libraries(LangulusMod((((YourModName))))
